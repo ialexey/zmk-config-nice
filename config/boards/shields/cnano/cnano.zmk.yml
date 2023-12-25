@@ -6,7 +6,6 @@ url: https://github.com/Bastardkb/Charybdis/
 requires: [pro_micro]
 features:
   - keys
-  - pointer
 siblings:
   - cnano_left
   - cnano_right
